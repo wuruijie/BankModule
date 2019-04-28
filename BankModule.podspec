@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BankModule"
-  s.version      = "1.0.4"
+  s.version      = "1.0.5"
   s.summary      = "a test for me to create a pod spec"
 
   # This description is used to generate tags and improve search results.

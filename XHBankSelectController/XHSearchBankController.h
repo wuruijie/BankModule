@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
-@interface XHSearchBankController : FLBaseViewController
+@interface XHSearchBankController : UIViewController
 
 -(void)cancelClick;
 @property (nonatomic, weak)id <SearchBankDelegete> delegete;

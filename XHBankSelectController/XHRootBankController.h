@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
-@interface XHRootBankController : FLBaseViewController
+@interface XHRootBankController : UIViewController
 
 @property (nonatomic, strong)XHBaseBankController * baseBank;
 

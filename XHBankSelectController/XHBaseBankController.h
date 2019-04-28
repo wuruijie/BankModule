@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
-@interface XHBaseBankController : FLBaseViewController
+@interface XHBaseBankController : UIViewController
 
 @property (nonatomic, weak)id <ChoiseBankDelegete>delegete;
 
