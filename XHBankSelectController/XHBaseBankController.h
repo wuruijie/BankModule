@@ -6,7 +6,6 @@
 //  Copyright © 2019 张彦芳. All rights reserved.
 //
 
-#import "FLBaseViewController.h"
 #import "XHBankResponse.h"
 NS_ASSUME_NONNULL_BEGIN
 @protocol ChoiseBankDelegete <NSObject>
